@@ -1,0 +1,20 @@
+img{
+    width: 70px;
+height: 100px;
+}
+h1{
+    color: darkgreen;
+   
+}
+p{
+    color: brown;
+}
+title{
+    color: mediumvioletred;
+}
+marquee{
+    color: rgb(93, 20, 161);
+}
+button{
+    color: darkorchid;
+}
